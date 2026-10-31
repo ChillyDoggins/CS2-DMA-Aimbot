@@ -1,0 +1,11 @@
+[package]
+name = "cs2_aimbot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.104"
+memprocfs = "=5.19.0"
+serde_json = "1.0.154"
+serialport = "4.7"
+ureq = "2"
